@@ -1,0 +1,5 @@
+# Project exclude paths
+/gateway/target/
+/ucenter/target/
+/utils/target/
+/video/target/

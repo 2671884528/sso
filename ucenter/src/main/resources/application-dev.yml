@@ -9,7 +9,7 @@ spring:
   redis:
     host: 112.74.180.80
     port: 6379
-    password: yuhui521.
+    password: 填自己的
 
 server:
   port: 8001
