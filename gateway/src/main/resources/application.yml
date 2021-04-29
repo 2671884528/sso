@@ -1,6 +1,6 @@
 spring:
   redis:
-    host: 112.74.180.80
+    host: 填自己的
     port: 6379
     password: 填自己的
   application:
